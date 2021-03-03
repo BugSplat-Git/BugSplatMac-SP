@@ -1,3 +1,3 @@
-# BugsplatMac-SP
+Swift Package for BugsplatMac for macOS
+==================================
 
-A description of this package.
