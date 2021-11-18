@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BugsplatMac",
-            url: "https://github.com/BugSplat-Git/BugSplatMac/releases/download/1.1.1/BugsplatMac.xcframework.zip",
+            url: "https://github.com/BugSplat-Git/BugSplat-macOS/releases/download/1.1.1/BugsplatMac.xcframework.zip",
             checksum: "0cb8a1c43a1058a142fa15a0e6425e817175121cbdfa8eb4a7d7dca8b3a0fdd1"),
     ]
 )
